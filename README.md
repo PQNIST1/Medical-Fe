@@ -8,7 +8,7 @@ This is the **frontend** part of an Online Pharmacy Web Application. The goal is
 
 - [🔥 Features](#-features)
 - [🛠 Tech Stack](#-tech-stack)
-- [⚙️ Clone the Project](#-clone-the-project)
+- [⚙️ Clone the Project](#clone-the-project)
 - [📸 Screenshots](#-screenshots)
 
 ## 🔥 Features
@@ -32,21 +32,28 @@ This is the **frontend** part of an Online Pharmacy Web Application. The goal is
 
 ## 📸 Screenshots
 
+| Home | Product Detail | Cart | Order |
+| --- | --- | --- | --- |
+| [![Home](https://i.imgur.com/We9Rj0o.png)] | [![Product Detail](https://i.imgur.com/fdk4imq.png)] | [![Cart](https://i.imgur.com/QXJceWa.png)] | [![Order](https://i.imgur.com/YnbA00F.png)]
 
 
-
-## ⚙️ Clone The Project
+## ⚙️ Clone The Project <a name="clone-the-project"></a>
 
 Follow these steps to run the frontend locally:
+
+### 1. Clone the repository
 ```bash
-# 1. Clone the repository
 git clone https://github.com/yourusername/pharmacy-frontend.git
-cd pharmacy-frontend
-
-# 2. Install dependencies
+```
+```bash
+cd Medical-Fe
+```
+### 2. Install dependencies
+```bash
 npm install
-
-# 3. Start the development server
+```
+### 3. Start the development server
+```bash
 npm start
 ```
 By default, it runs on: http://localhost:3000
