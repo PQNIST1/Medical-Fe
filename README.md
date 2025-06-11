@@ -33,8 +33,12 @@ This is the **frontend** part of an Online Pharmacy Web Application. The goal is
 ## 📸 Screenshots
 
 | Home | Product Detail | Cart | Order |
-| --- | --- | --- | --- |
-| [![Home](https://i.imgur.com/We9Rj0o.png)] | [![Product Detail](https://i.imgur.com/fdk4imq.png)] | [![Cart](https://i.imgur.com/QXJceWa.png)] | [![Order](https://i.imgur.com/YnbA00F.png)]
+|------|----------------|------|-------|
+| ![Home](https://i.imgur.com/We9Rj0o.png) | ![Product Detail](https://i.imgur.com/fdk4imq.png) | ![Cart](https://i.imgur.com/QXJceWa.png) | ![Order](https://i.imgur.com/YnbA00F.png) |
+
+| Home Booking | Booking Detail | Package Booking | Payment |
+|--------------|----------------|-----------------|---------|
+| ![Home Booking](https://i.imgur.com/DLE7Ns7.png) | ![Booking Detail](https://i.imgur.com/Vzn7tFs.png) | ![Package Booking](https://i.imgur.com/8vHSgXR.png) | ![Payment](https://i.imgur.com/4e2G4hg.png) |
 
 
 ## ⚙️ Clone The Project <a name="clone-the-project"></a>
@@ -43,7 +47,7 @@ Follow these steps to run the frontend locally:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/pharmacy-frontend.git
+https://github.com/PQNIST1/Medical-Fe.git
 ```
 ```bash
 cd Medical-Fe
@@ -56,4 +60,4 @@ npm install
 ```bash
 npm start
 ```
-By default, it runs on: http://localhost:3000
+By default, it runs on: http://localhost:5173
